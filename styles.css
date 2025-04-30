@@ -252,6 +252,17 @@ header a {
     color: var(--accent-color);
     transform: translateY(-3px);
 }
+.special-category-title {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    color: var(--primary-color);
+    position: relative;
+    display: inline-block;
+    left: 12.5%;
+    transform: translateX(-50%);
+}
+
 
 /* Menu Section */
 .section {
